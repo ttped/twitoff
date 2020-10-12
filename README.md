@@ -20,5 +20,4 @@ py -m pipenv shell
 ## Usage
 
 '''bash
-FLASK_APP=web_app flask run
-'''
+FLASK_APP=web_app flask run'''
