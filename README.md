@@ -4,7 +4,7 @@
 
 Download the repo and nagivate tehre from teh command line:
 
-'''sh
+'''bash
 git clone https://github.com/ttped/twitoff
 cd twitoff
 '''
@@ -12,13 +12,13 @@ cd twitoff
 ## Setup
 
 Set up and activate virtual environment
-'''sh
+'''bash
 py -m pipenv install
 py -m pipenv shell
 '''
 
 ## Usage
 
-'''sh
+'''bash
 FLASK_APP=web_app flask run
 '''
